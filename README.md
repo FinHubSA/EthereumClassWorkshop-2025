@@ -1,3 +1,9 @@
+# EthereumClassWorkshop-2025
+
+Welcome to the repository for Fintech and Cryptocurrencies 2025. This repo has been created using scaffold-eth, an open-source toolkit for building decentralized apps on the Ethereum blockchain.
+
+Each branch in this repository is meant to go through a particular aspect of Ethereum as shown using the tutorials given on **[Speedrun Ethereum](https://speedrunethereum.com)** The practicals intended to teach you smart contract programming and deployment for the blockchain We'll go over the main branch which will be a brief introduction into the technology, a setup, development, and a deploy part. After we go through all the branches you should have the tools to start your own blockchain based project using the tech stack offered by ScaffoldEth.
+
 # 🏗 Scaffold-ETH 2
 
 <h4 align="center">
@@ -65,7 +71,6 @@ Run smart contract test with `yarn hardhat:test`
 - Edit your smart contracts in `packages/hardhat/contracts`
 - Edit your frontend homepage at `packages/nextjs/app/page.tsx`. For guidance on [routing](https://nextjs.org/docs/app/building-your-application/routing/defining-routes) and configuring [pages/layouts](https://nextjs.org/docs/app/building-your-application/routing/pages-and-layouts) checkout the Next.js documentation.
 - Edit your deployment scripts in `packages/hardhat/deploy`
-
 
 ## Documentation
 
